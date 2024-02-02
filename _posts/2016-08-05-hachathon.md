@@ -5,35 +5,6 @@ date:   2016-08-05 14:19:20 +0200
 categories: software
 ---
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter39542345 = new Ya.Metrika({
-                    id:39542345,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/39542345" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
 There was a hackathon this weekend about <a href="http://kubernetes.io/">Kubernetes</a> and <a href="https://crate.io/">Crate</a>. The idea was using these technologies create something cool. We decided with my friend <a href="https://www.facebook.com/silnov">Sergey</a> to try something from deep learning and ended up transferring style from the <a href="https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series)">Van Gogh Sunflowers</a> to a video.  
 
 The idea was to have next steps:  

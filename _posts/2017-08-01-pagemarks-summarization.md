@@ -5,35 +5,6 @@ date:   2017-08-01 14:19:20 +0200
 categories: software
 ---
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter39542345 = new Ya.Metrika({
-                    id:39542345,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/39542345" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
 <div class="text-full-width">
     <p>This project is focused on producing extractive summarization for the web pages. This work is inspired by Fast Forward Labs <a target="_blank" href="http://blog.fastforwardlabs.com/2016/04/11/new-tools-to-summarize-text.html">article</a> and one of the <a target="_blank" href="http://micha.codes/2017-qcon-deeplearning/#1">workshops</a> they gave.</p>
     <p>Summarization is a hard problem, but use cases could be very helpful in everyday life.</p>
