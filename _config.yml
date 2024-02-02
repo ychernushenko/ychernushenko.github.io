@@ -15,3 +15,6 @@ github_username:  ychernushenko
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: G-FTJ32N6VWC
