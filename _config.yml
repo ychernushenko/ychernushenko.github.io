@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yuri Chernushenko's blog
+title: Yuri's Blog
 email: y.chernushenko@gmail.com
 description: Log level = pet projects
 baseurl: "" # the subpath of your site, e.g. /blog
